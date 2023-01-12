@@ -11,3 +11,5 @@ de letras, números e caracteres especiais. ******🔒
 - Java 18
 
 ## 📸 Screenshots
+<img src="https://github.com/tavaresProg/Aplicativo-Gerador-de-Senhas/blob/main/screenshot%201.png" alt="Interface" width="50%">
+<img src="https://github.com/tavaresProg/Aplicativo-Gerador-de-Senhas/blob/main/screenshot%202.png" alt="PasswordGenerated" width ="50%">
