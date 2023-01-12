@@ -7,8 +7,15 @@
 App que gera senhas aleatórias permitindo escolher a quantidade
 de letras, números e caracteres especiais. 🔒
 
+## ❔ Como usar:
+- Selecione a quantidade de letras, maiúsculas</br>
+números e símbolos e clique em gerar! ▶️
+- Você pode alterar os conjuntos de caracteres como quiser!</br> 🤯
+basta mudar os valores dos atributos *conjuntoLetras*, *conjuntoNumeros* </br> e *conjuntoSimbolos*
+da classe *ImplementaALogica*.
+
 ## 🛠️ Tecnologia utilizada
 - Java 18
 
-## 📸 Screenshots
+## 📸 Screenshot
 <img src="https://github.com/tavaresProg/Aplicativo-Gerador-de-Senhas/blob/main/screenshot%202.png" alt="PasswordGenerated" width ="50%">
